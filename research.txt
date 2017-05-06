@@ -1,0 +1,6 @@
+
+
+intersting links:
+	
+question about scraper packages for programing languages
+	'http://stackoverflow.com/questions/2861/options-for-html-scraping'
